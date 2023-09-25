@@ -1,0 +1,45 @@
+img{
+    width: 200px;
+    height: 150px;
+}
+
+h3{
+    color: black;
+    display: flex;
+    justify-content: flex-start;
+}
+
+button{
+    padding: 3px;
+    border-radius: 5px;
+    width: 120px;
+    height: 34px;
+}
+
+.delete{
+    background-color: red;
+}
+
+.edit{
+    background-color: blue;
+}
+
+.stars{
+    height: 30px;
+    border-radius: 15px;
+    background-color: orange;
+}
+
+.movie_item{
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+    border-radius: 20px;
+    width: 700px;
+    margin: 20px 300px;
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+}
+.text_content{
+    display: flex;
+    flex-direction: column;
+}
