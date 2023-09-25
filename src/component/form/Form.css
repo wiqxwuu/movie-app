@@ -1,0 +1,19 @@
+form > div{
+    color: black;
+    width: 80%;
+    margin: 30px;
+}
+
+form > div > input {
+    display: block;
+    width: 100%;
+    padding: 10px;
+}
+
+form{
+    padding: 20px; 
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px 2px darkgray;
+    width: 40%;
+    margin: 30px 26%;
+}
